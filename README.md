@@ -42,7 +42,6 @@ To run this project, follow the steps below to set up the environment:
 Clone the Repository:
 
 bash
-Copy code
 git clone https://github.com/Freddie-2/Capstone-Project.git
 cd your-repo-name
 Install Required Libraries:
@@ -50,7 +49,6 @@ Install Required Libraries:
 Make sure you have Python 3.6 or above installed. Install the required libraries using pip:
 
 bash
-Copy code
 pip install pandas lamini transformers torch sklearn matplotlib seaborn numpy
 Set up API Key for Lamini (if applicable):
 
