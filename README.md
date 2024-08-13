@@ -1,4 +1,4 @@
-Comparative Analysis of Open-Source Large Language Models for Sentiment Analysis and Prompt Engineering
+## Comparative Analysis of Open-Source Large Language Models for Sentiment Analysis and Prompt Engineering
 This project involves using various transformer models for sentiment analysis and prompt engineering, focusing on comparing the performance and insights each model provides. The project is divided into two main parts: Sentiment Analysis and Prompt Engineering.
 
 Table of Contents
